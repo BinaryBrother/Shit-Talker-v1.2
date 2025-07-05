@@ -6,7 +6,7 @@
 <p>VMWare is now a free-product, since being purchased by Broadcom.</p>
 <h1>Instructions</h1>
 <p>1.) Download and install the latest verion of VMWare Workstation (<a href="https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion" target="_blank">Official</a>) (<a href="https://www.dropbox.com/scl/fi/oc0ce1pkaq7nbal18iard/VMware-workstation-full-17.6.3-24583834.exe?rlkey=pzcrfxfgfeocrpxt3k2d5w24j&amp;dl=1">Mirror</a>).</p>
-<p>2.) Download my special version of Shit Talker V1.2, housed by a MicroXP SP2 VM.</p>
+<p>2.) Download my special version of Shit Talker V1.2 (<a href="https://github.com/BinaryBrother/Shit-Talker-v1.2/raw/refs/heads/main/ShitTalker%20V2.rar">GitHub</a>), built with a MicroXP SP2 VM.</p>
 <p>3.) Extrack the RAR file somewhere.</p>
 <p>4.) Open VMWare Workstation. <strong>File</strong> --&gt; <strong>Open</strong> --&gt; Choose the <strong>VMX file</strong> you just extracted.</p>
 <h1><strong>Reporting an Issue</strong></h1>
